@@ -28,7 +28,20 @@
 
 ## 5. Instalação do Mod
 
-### Copie os arquivos para o jogo:
+### 5.1 Copie os arquivos para o jogo:
 
-- Transfira todos os arquivos e pastas da pasta extraída para o diretório principal do GTA San Andreas (ex.: C:\Program Files\Rockstar Games\GTA San Andreas).
-[É altamente recomendado que o GTA San Andreas esteja fora da "Program Files"]
+- ...
+
+### 5.2 Baixe o arquivo .exe e instale tudo automaticamente:
+
+- ...
+
+## 6. Teste o Jogo
+
+### 6.1 Execute o jogo clicando no arquivo gta_sa.exe.
+
+### 6.2 Verifique se os mods foram aplicados corretamente.
+
+- Teste a jogabilidade.
+
+- Confira gráficos, sons e funcionalidades novas.
