@@ -18,6 +18,6 @@
 
 ## 3. Baixe o Mod
 
-- Acesse o repositório do projeto no GitHub ([https://github.com/erickki/san-andreas-remastered-plus]).
+- Acesse o repositório do projeto no GitHub: [Clique Aqui](https://github.com/erickki/san-andreas-remastered-plus).
 
 - Faça o download do pacote completo clicando em "Code" > "Download ZIP".
