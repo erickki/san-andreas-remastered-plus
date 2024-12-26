@@ -45,3 +45,25 @@
 - Teste a jogabilidade.
 
 - Confira gráficos, sons e funcionalidades novas.
+
+## 7. Solução de Problemas
+
+### 7.1 Se o jogo não iniciar, confira:
+
+- Drivers de vídeo atualizados.
+
+- Permissões do Windows Defender ou antivírus (adicione o GTA à lista de exceções).
+
+### 7.2 Consulte o arquivo README.md ou a seção de problemas no GitHub para soluções específicas.
+
+## 8. Contribuições e Suporte
+
+- Caso encontre bugs ou tenha sugestões, abra uma issue no repositório do GitHub.
+
+- Contribuições são bem-vindas! Siga o guia para contribuidores disponível no repositório.
+
+## 9. Divirta-se!
+
+- Aproveite uma experiência renovada em Los Santos com melhorias gráficas e de gameplay!
+
+- Se precisar de algo mais técnico ou adaptado, posso ajustar!
