@@ -15,3 +15,9 @@
 - Softwares adicionais necessários:
 
     [► WinRAR (ou outro descompactador)](https://www.win-rar.com/start.html?&L=9)
+
+## 3. Baixe o Mod
+
+- Acesse o repositório do projeto no GitHub ([https://github.com/erickki/san-andreas-remastered-plus]).
+
+- Faça o download do pacote completo clicando em "Code" > "Download ZIP".
