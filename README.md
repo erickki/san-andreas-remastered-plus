@@ -64,6 +64,8 @@
 
 ## 9. Divirta-se!
 
+- Temos uma lista de comandos de novas funcionalidades: [Clique Aqui](https://github.com/erickki/san-andreas-remastered-plus/blob/main/COMANDOS.md)
+
 - Aproveite uma experiência renovada em Los Santos com melhorias gráficas e de gameplay!
 
 - Se precisar de algo mais técnico ou adaptado, posso ajustar!
