@@ -10,8 +10,8 @@
 
 ● Uma cópia do GTA San Andreas instalada no seu PC, caso não tenha pode verificar aqui:
 
-    ► GTA San Andreas (Miscellaneous-C): [Clique Aqui!](https://miscellaneous-c.blogspot.com/2022/04/download-gta-san-andreas-pc-10-us-full.html)
+    [► GTA San Andreas (Miscellaneous-C)](https://miscellaneous-c.blogspot.com/2022/04/download-gta-san-andreas-pc-10-us-full.html)
 
 ● Softwares adicionais necessários:
 
-    ► WinRAR (ou outro descompactador): [Clique Aqui!](https://www.win-rar.com/start.html?&L=9)
+    [► WinRAR (ou outro descompactador)](https://www.win-rar.com/start.html?&L=9)
