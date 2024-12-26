@@ -21,3 +21,14 @@
 - Acesse o repositório do projeto no GitHub: [Clique Aqui](https://github.com/erickki/san-andreas-remastered-plus).
 
 - Faça o download do pacote completo clicando em "Code" > "Download ZIP".
+
+## 4. Faça Backup do Jogo Original
+
+- Antes de começar a instalação, crie uma cópia de segurança da pasta do GTA San Andreas original. Isso ajudará a restaurar o jogo em caso de problemas.
+
+## 5. Instalação do Mod
+
+### Copie os arquivos para o jogo:
+
+- Transfira todos os arquivos e pastas da pasta extraída para o diretório principal do GTA San Andreas (ex.: C:\Program Files\Rockstar Games\GTA San Andreas).
+[É altamente recomendado que o GTA San Andreas esteja fora da "Program Files"]
